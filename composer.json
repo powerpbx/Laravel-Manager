@@ -1,5 +1,5 @@
 {
-    "name": "graham-campbell/manager",
+    "name": "powerpbx/manager",
     "description": "Manager Provides Some Manager Functionality For Laravel 5",
     "keywords": ["laravel", "framework", "manager", "connector", "interface", "Manager", "Laravel Manager", "Laravel-Manager", "Graham Campbell", "GrahamCampbell"],
     "license": "MIT",
@@ -22,12 +22,12 @@
     },
     "autoload": {
         "psr-4": {
-            "GrahamCampbell\\Manager\\": "src/"
+            "PowerPBX\\Manager\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "GrahamCampbell\\Tests\\Manager\\": "tests/"
+            "PowerPBX\\Tests\\Manager\\": "tests/"
         }
     },
     "config": {
