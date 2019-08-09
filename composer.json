@@ -1,5 +1,5 @@
 {
-    "name": "powerpbx/manager",
+    "name": "powerpbx/laravel-manager",
     "description": "Manager Provides Some Manager Functionality For Laravel 5",
     "keywords": ["laravel", "framework", "manager", "connector", "interface", "Manager", "Laravel Manager", "Laravel-Manager", "Graham Campbell", "GrahamCampbell"],
     "license": "MIT",
